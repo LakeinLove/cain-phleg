@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e575249540f2a568","type":"text","text":"## Trauma Question 1:\nWhat are you trying to escape?\nEndless, crushing work","x":-3000,"y":-1640,"width":350,"height":141,"color":"1"},
+		{"id":"06738599c3118a89","type":"text","text":"## Trauma Question 2:\nWhat do you hate most about humanity?\nAll they do is take and take, burning everyone below them like catchpaper","x":-3000,"y":-1499,"width":350,"height":200,"color":"1"},
+		{"id":"cef07a07b71f00f0","type":"text","text":"## Trauma Question 2:\nWhat do you regret the most?\nBeing too afraid of accepting Bernadette's offer to quit working here and move elsewhere.","x":-3000,"y":-1299,"width":350,"height":200,"color":"1"},
+		{"id":"a22132b1a427808a","type":"text","text":"## Palace\nLocated on the 3rd lowest level, directly centre of the ship, secondary drive section. Crew-only deck, and currently suffering oil leaks like 3 other locations. Repair/Cleanup underway","x":-3000,"y":-1040,"width":380,"height":260,"color":"1"},
+		{"id":"d409f20b91d1127b","type":"text","text":"Critical Information","x":-3280,"y":-1820,"width":250,"height":60,"color":"1"},
+		{"id":"0b236cfaae0279b2","type":"text","text":"## SIN\n[[Phlegethon]]\n","x":-3000,"y":-740,"width":350,"height":100,"color":"1"},
+		{"id":"e09c7eb8b30350ab","type":"text","text":"## Hook\nThe hook for the players is a murder on \"Oasis Among the Waves\".","x":-3000,"y":-600,"width":368,"height":160,"color":"1"},
+		{"id":"8f1033c2fa03ec79","type":"text","text":"## Host\nWilliam Thatcher\n- Currently trapped by Centipede on Floor 3, inside the complex piping and machinery of the oil section\n- Location: PD3","x":-3000,"y":-400,"width":368,"height":280,"color":"1"}
+	],
+	"edges":[
+		{"id":"6264f1fbfd7512d5","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"e575249540f2a568","toSide":"left"},
+		{"id":"b769e775ef04c645","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"06738599c3118a89","toSide":"left"},
+		{"id":"15b5aeb93698889f","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"cef07a07b71f00f0","toSide":"left"},
+		{"id":"1d000241a757ce7e","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"a22132b1a427808a","toSide":"left"},
+		{"id":"e4498e4ff04c73bc","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"0b236cfaae0279b2","toSide":"left"},
+		{"id":"dd29e66dd0fc43f5","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"e09c7eb8b30350ab","toSide":"left"},
+		{"id":"ad3d385c9cd313f8","fromNode":"d409f20b91d1127b","fromSide":"bottom","toNode":"8f1033c2fa03ec79","toSide":"left"}
+	]
+}
