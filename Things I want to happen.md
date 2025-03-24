@@ -1,0 +1,57 @@
+# In No Particular Order:
+- See William's bug collection
+- Find William's secret closet on floor 4 where he keeps things
+- Discover his journal, last page written in is scrawled with "They're all insects" (after the second last page where he hits peak despair and disgorges about his growing disdain for the majority of people)
+- Phlegethon Confrontation 1
+- Infected siege ballroom
+- Alarm on ship raised, basic lockdown happens
+- Reveal that the oil is spreading through the ship
+- Discovery of infected seeking to spread the oil
+- Weapon locker flashback
+- 2nd Uriel scene
+- Realisation that William is stuck in Fluid Processing
+- Bernie confesses to players about Venla, the files, and William(how to make this happen?)
+- Golden Armband on William's arm, centipede shaped
+- Toxin blinds people and things based on sight (Screens and cameras)
+
+# Session 4:
+## Must:
+- Bernie Confronts players, is sceptical but warm to the maintenance players
+- Venla and 6 Security Officers enter ballroom quietly on their way to the corridor where the players were before
+- Bernie notices and recoils upon noticing Venla, trying to avoid being seen, gets the players to hide too
+- Bernie notices weapons when they huddle into the corner, questions the players with a serious tone
+- Bernie does believe they are hunters, because she knows every single staff member on the ship, checks and does all roster changes
+- Knows they cannot be on the ship, so they got here somehow
+- Explains what she found with Alejandro, is terrified for Will but can't make herself go, afraid what she'll find
+- She explains Venla stuff
+- Doesn't know why Will is acting the way he is
+- Shuddering explosion ripples the floor and shakes the entire ship
+- All walkie-talkies immediately go dead, timeout-beep
+- People in the crowd start panicking, they were already scared from the big waves
+- Safe-zone gathering alarms play
+- After 2 minutes normal people begin streaming into the registered safe-zones
+- 4 minutes after explosion Vikram, Dipesh, and only 2 other maintenance staff come running in flanked by 2 guards, Vikram is badly wounded and they all look rough
+- Explain they were attacked and barely fought their way out of the breakroom to make a run for it
+- Ran past Venla and her guards, they were headed for the engine room with weapons drawn, 6 more guards had joined them for a total of 12
+- 4 of the new lot started fighting the monsters
+- 2 of them ran the maintenance folk away
+- Venla and crew kept going to engine room, took 2 of the maintenance members Alex and Marley, the best at engine repairs who isn't a main engineer
+- Said there was some kind of danger in the engine room and one of the engineers was injured, probably more monsters
+- Engine room is deck 2 central
+- But more importantly, something massive was following them
+- Parker screamed and when silent as a massive wall of something they couldn't quite see hit him like a freight train as they were running
+- They could barely make out muted sobbing and a sickening cackling laugh
+- The explosion came from below, sounded to Vikram like one of the engines busting its housing and potentially blowing a gasket
+- Bernie resolves to go save Will, he can't be left alone in Fluid Maintenance, but she is also probably needed in the engine room
+- Bernie tells them about Will's secret room on deck 4, says he made that place a little haven
+- The entrance to the ballroom explodes open with splinters, revealing 10 or so infected
+- Players see something massive undulating behind the creatures in the darkened corrider (lights seem to be out aside from floor lighting)
+- It moves and then all goes still
+- FLASHBACK WEAPONS LOCKER SCENE
+- Players fight to defend the civilians and hold them off, Bernie helps
+- Time is not on their side, Bernie sees their skill and asks them to rescue Will, begs
+- If he was in fluid processing when the explosion went off, he might be still trying to get out
+- His secret spot is only slightly out of the way
+- She agrees, sprints off through some shortcuts to get to Engine room quickly
+- As they run, a presence begins to weigh on them seconds before Phlegethon coils itself around the corner to the entrance of the cubbie
+- Session Ends
